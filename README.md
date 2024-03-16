@@ -56,7 +56,7 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
 ### Output:
-![output](https://github.com/jhansi21005096/WDM_EXP4/blob/main/ob.png)
+![output]([https://github.com/jhansi21005096/WDM_EXP4/blob/main/ob.png](https://github.com/jhansi21005096/WDM_EXP4/blob/main/output1.png))
 
 ### Result:
 Thus the Implementation of Cluster and Visitor Segmentation for Navigation patterns is executed successfully.
