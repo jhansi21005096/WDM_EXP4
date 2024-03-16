@@ -36,7 +36,7 @@ for group, condition in age_groups.items():
 
 ```
 ### Output:
-![output]()
+![output](https://github.com/jhansi21005096/WDM_EXP4/blob/main/oa.png)
 ### Visualization:
 ```python
 visitor_counts=[]
@@ -56,6 +56,7 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
 ### Output:
-![output]()
+![output](https://github.com/jhansi21005096/WDM_EXP4/blob/main/ob.png)
 
 ### Result:
+Thus the Implementation of Cluster and Visitor Segmentation for Navigation patterns is executed successfully.
